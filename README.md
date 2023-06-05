@@ -1,5 +1,5 @@
 <p align="right">
-    <img src="https://static.vecteezy.com/system/resources/previews/010/998/283/non_2x/3d-programmer-pc-illustration-side-view-free-png.png" alt="Computador" width="350px">
+    <img src="https://static.vecteezy.com/system/resources/previews/010/998/283/non_2x/3d-programmer-pc-illustration-side-view-free-png.png" alt="Computador" width="250px">
 </p>
 
 <h1 align="center">Olá! 👋, sou Rayanne Barros.</h1>
