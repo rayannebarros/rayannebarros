@@ -1,7 +1,7 @@
 <div>
     <h1 align="left">Olá! 👋, sou Rayanne Barros.</h1>
     <p align="center">
-        <img src="https://udahiliportal.com/za/wp-content/uploads/2023/01/Girlcode-Learnership-Programme.png" alt="Computador" width="450px">
+        <img src="[https://udahiliportal.com/za/wp-content/uploads/2023/01/Girlcode-Learnership-Programme.png](https://images.freeimages.com/image/previews/12c/semi-flat-study-supply-png-5690858.png)" alt="Computador" width="450px">
     </p>
     <div>
         <p align="left"><strong>Estudante do 10º Período de Engenharia de Computação, no IFPB - Campina Grande</strong>.</p>
