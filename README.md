@@ -4,7 +4,7 @@
         <img src="https://images.freeimages.com/image/previews/12c/semi-flat-study-supply-png-5690858.png" alt="Computador" width="450px">
     </p>
     <div>
-        <p align="left"><strong>Estudante do 10º Período de Engenharia de Computação, no IFPB - Campina Grande</strong>.</p>
+        <p align="left"><strong>Graduada em Engenharia de Computação, no IFPB - Campina Grande</strong>.</p>
     </div>
 </div>
 
