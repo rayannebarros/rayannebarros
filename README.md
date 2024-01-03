@@ -13,7 +13,7 @@
     <a href="https://www.linkedin.com/in/rayanne-barros-223ab51b5/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
-        <a href="https://criarmeulink.com.br/u/1704286555">
+        <a href="mailto:rayannekmb@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
 </p>  
