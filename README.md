@@ -34,17 +34,32 @@
 
 <br>
 
-<table align="center" border="0">
+<style>
+    .github-stats-table {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px 0;
+    }
+
+    .github-stats-table img {
+        border-radius: 8px;
+        margin: 0 10px;
+    }
+</style>
+
+<table class="github-stats-table" border="0">
     <tr>
         <td>
             <a href="https://github.com/rayannebarros">
-                <img width="400px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayannebarros&exclude_repo=IA-FIC2021&langs_count=6&theme=dracula&hide_langs_below=1&layout=compact" />
+                <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayannebarros&exclude_repo=IA-FIC2021&langs_count=6&theme=dracula&hide_langs_below=1&layout=compact" />
             </a>
         </td>
         <td>
             <a href="https://github.com/rayannebarros">
-                <img width="454px" align="center" src="https://github-readme-stats.vercel.app/api?username=rayannebarros&show_icons=true&theme=dracula&line_height=27" alt=""/>
+                <img width="454px" src="https://github-readme-stats.vercel.app/api?username=rayannebarros&show_icons=true&theme=dracula&line_height=27" alt=""/>
             </a>
         </td>
     </tr>
 </table>
+
