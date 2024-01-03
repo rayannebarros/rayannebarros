@@ -1,6 +1,6 @@
 <p align="center">
   Hello, i'm<strong> Rayanne</strong>! :) <br/>
-  I graduated in Computer Engineering at IFPB and I am a junior woman developer<br/>
+  A Computer Engineering graduate from IFPB and a junior woman developer.<br/>
     <img src="https://images.freeimages.com/image/previews/12c/semi-flat-study-supply-png-5690858.png" alt="Computador" width="350px">
 </p>
 <p>
