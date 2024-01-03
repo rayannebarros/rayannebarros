@@ -7,7 +7,7 @@
 <br>
 
 <p>
-    <h3>Entre em contato:</h3>
+   <h3>You can find me at</h3>
     <a href="https://www.linkedin.com/in/rayanne-barros-223ab51b5/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
     </a>
@@ -17,7 +17,7 @@
 </p>  
 
 <div>
-    <h3>Principais Tecnologias:</h3>
+    <h3>Main technologies:</h3>
     <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     <img height=27px alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square"/>
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
